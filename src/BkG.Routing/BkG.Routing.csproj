@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageId>BkG.Routing</PackageId>
+    <Authors>Brooklyn Gabe</Authors>
+    <Description>Helpers for pre-defined routing patterns for dotnet core WebAPI apps</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageTags>dotnet core routing webapi</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
