@@ -3,6 +3,12 @@
 Pre-built routing utilities for dotnet Core WebAPI projects
 
 
+## Build Status
+
+ + Release ![Master Branch Status](https://gabe.visualstudio.com/_apis/public/build/definitions/8119b92f-16d5-4ce2-9ade-814b75b0a4cb/6/badge)
+ + Pre-Release ![Other Branches' Status](https://gabe.visualstudio.com/_apis/public/build/definitions/8119b92f-16d5-4ce2-9ade-814b75b0a4cb/7/badge)
+
+
 ## Usage
 
 Classic style routing for all controllers to use routing convention `"/api/[controller]"`
