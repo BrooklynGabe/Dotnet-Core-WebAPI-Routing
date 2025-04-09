@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <PackageId>BkG.Routing</PackageId>
     <Authors>Brooklyn Gabe</Authors>
     <Description>Helpers for pre-defined routing patterns for dotnet core WebAPI apps</Description>
@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+    <FrameworkReference Include="Microsoft.AspNetCore.App" Version="8.8" />
   </ItemGroup>
 
 </Project>
